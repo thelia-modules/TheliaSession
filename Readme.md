@@ -1,5 +1,8 @@
 # Thelia Session
 
+> This module is no longer maintained and will not be ported to Thelia 3. Its 2.x versions remain available on Packagist.
+> In Thelia 3, session storage is configured in the Symfony application settings.
+
 This module allows to change the session storage of Thelia.
 - [x] Memcached
 
